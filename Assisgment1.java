@@ -9,7 +9,7 @@ public class Solution {
          int num1 = in.nextInt();
          System.out.print("Input second number: ");
          int num2 = in.nextInt();
-		 System.out.print("Input third number: ");
+		 System.out.print("Input third numbers: ");
          int num3 = in.nextInt();
          System.out.print("Input fourth number: ");
          int num4 = in.nextInt();		
