@@ -96,7 +96,7 @@ public class Exercise9 {
         System.out.printf("Product of two integers: %d%n", firstInt * secondInt);
         System.out.printf("Average of two integers: %.2f%n", (double) (firstInt + secondInt) / 2);
         System.out.printf("Distance of two integers: %d%n", Math.abs(firstInt - secondInt));
-        System.out.printf("Max integer: %d%n", Math.max(firstInt, secondInt));
+        System.out.printf("Max integer : %d%n", Math.max(firstInt, secondInt));
         System.out.printf("Min integer: %d%n", Math.min(firstInt, secondInt));
     }
 }
